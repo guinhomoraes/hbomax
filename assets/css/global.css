@@ -125,6 +125,7 @@ section {
 .menu__item--button:hover {
   background-color: var(--btn-link-bg-color);
   color: var(--btn-link-color);
+  transform: scale(1.1);
 }
 
 /* Container */
